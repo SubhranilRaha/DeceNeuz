@@ -53,7 +53,7 @@ export default function MainLayout({ children }) {
               <input
                 type="search"
                 name="search"
-                placeholder="Search Twitter"
+                placeholder="Search ❤️"
                 className="h-10 px-10 pr-5 rounded-full text-sm focus:outline-none bg-gray-900 shadow w-full"
               />
             </div>
